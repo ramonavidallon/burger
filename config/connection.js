@@ -14,7 +14,7 @@ else
 		host: 'localhost',
 		user: 'root',
 		password: 'Aliale608',
-		database: 'burgers_db'
+		database: 'burger_db'
 	});
 };
 
