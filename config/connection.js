@@ -1,5 +1,5 @@
 
-var mysql = require ('mysql');
+var mysql = require('mysql');
 
 var connection;
 
@@ -14,7 +14,7 @@ else
 		host: 'localhost',
 		user: 'root',
 		password: 'Aliale608',
-		database: 'JawsDB'
+		database: 'burger_db'
 	});
 };
 
