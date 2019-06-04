@@ -1,7 +1,16 @@
-.jumbotron {
-  text-align: center;
+body {
+  font-family: 'Fredoka One', cursive;
+  background-image: url("/css/krabbypatty.jpg")
+
 }
 
-.container {
-  background-image: url("/public/img/shake_shack_burgers.png");
+.jumbotron {
+  opacity: .8;
+  text-align: center;
+  color: red;
 }
+
+.submitFont {
+  color:rgb(234, 238, 2);
+}
+
