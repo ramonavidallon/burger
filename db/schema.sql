@@ -1,9 +1,11 @@
-CREATE DATABASE burger_db;
+CREATE DATABASE JawsDB;
 
-USE burger_db;
+USE JawsDB;
 
 CREATE TABLE BURGERS (
   id          INT PRIMARY KEY AUTO_INCREMENT,
   burger_name VARCHAR(100) NOT NULL,
-  devoured    BOOLEAN      NOT NULL
+  devoured    BOOLEAN      NOT NULL,
+  createdAt TIMESTAMP NOT NULL,
+  PRIMARY KEY(id)
 );
