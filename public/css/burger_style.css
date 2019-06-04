@@ -1,0 +1,7 @@
+.jumbotron {
+  text-align: center;
+}
+
+.container {
+  background-image: url("/public/img/shake_shack_burgers.png");
+}
