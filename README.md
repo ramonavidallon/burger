@@ -7,8 +7,6 @@
   <li>Handlebars were also used to generate the front end (HTML) </li>
 </ul>
 
-<br><br>
-
 <h2> Technologies Used </h2>
 <ul>
   <li>Node.js</li>
